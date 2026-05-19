@@ -1,67 +1,157 @@
 <div align="center">
 
-<br/>
-
-Reynold Steven Lumbantoruan
-
-**Software Engineer**  
-Building clean, purposeful software — one line at a time.
+<a href="https://github.com/yourusername">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+</a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-your@email.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:reynoldsteven2506@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Reynoldsteven)
-
-</div>
-
----
+<!-- Typing Animation: Name -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=46&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Flutter" alt="Typing SVG" />
 
 <br/>
 
-## About
+<!-- Typing Animation: Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=300&size=16&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&height=40&lines=Building+clean%2C+purposeful+software.;Crafting+elegant+backend+architectures.;Delivering+seamless+mobile+experiences." alt="Tagline" />
 
-I'm a Software Engineer focused on building scalable web applications and cross-platform mobile experiences. I care deeply about clean architecture, elegant code, and products that just work.
+<br/><br/>
 
-> *"Simplicity is the ultimate sophistication."*
-
-<br/>
-
-## Stack
-
-```
-Backend      →   PHP · Laravel · REST API
-Mobile       →   Flutter · Dart
-Database     →   MySQL · PostgreSQL
-Tools        →   Git · Docker · Postman
-```
-
-<br/>
-
-## Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=555555&icon_color=000000&bg_color=ffffff&hide=contribs" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=555555&bg_color=ffffff" />
+<!-- Contact Badges -->
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://yourportfolio.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 </div>
 
 <br/>
 
-## Work
+---
 
-| Project | Description | Stack |
-|---|---|---|
-| [Project One](https://github.com/yourusername/project-one) | Brief one-line description | Laravel · MySQL |
-| [Project Two](https://github.com/yourusername/project-two) | Brief one-line description | Flutter · REST API |
-| [Project Three](https://github.com/yourusername/project-three) | Brief one-line description | PHP · PostgreSQL |
+<br/>
+
+## &nbsp;&nbsp;About
+
+```swift
+struct Developer {
+    let name      = "Your Name"
+    let role      = "Software Engineer"
+    let location  = "Indonesia 🇮🇩"
+    let focus     = ["Web Backend", "Mobile Apps", "Clean Architecture"]
+    let currently = "Building awesome products with Laravel & Flutter"
+    let passion   = "Turning complex problems into simple, elegant solutions."
+}
+```
 
 <br/>
 
 ---
 
+<br/>
+
+## &nbsp;&nbsp;Tech Stack
+
 <div align="center">
-<sub>Designed with simplicity in mind · Updated 2025</sub>
+
+**— Backend —**
+
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+**— Mobile —**
+
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
+
+<br/>
+
+**— Tools & DevOps —**
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=f9f9f9&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999&background=f9f9f9&stroke=eeeeee&currStreakNum=000000&sideNums=000000" />
+
+<br/><br/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&langs_count=6" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yourusername/project-one">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
+</a>
+<a href="https://github.com/yourusername/project-two">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/yourusername)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+
+<sub>Designed with simplicity in mind &nbsp;·&nbsp; Your Name © 2025</sub>
+
 </div>
