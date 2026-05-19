@@ -1,13 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/Reynoldsteven">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 </a>
 
 <br/>
 
 <!-- Typing Animation: Name -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=46&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=46&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Reynold+Steven+%F0%9F%91%8B;Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Flutter" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 <br/><br/>
 
 <!-- Contact Badges -->
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynoldsteven2506@email.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 &nbsp;
@@ -37,7 +37,7 @@
 
 ```swift
 struct Developer {
-    let name      = "Your Name"
+    let name      = "Reynold Steven Lumbantoruan"
     let role      = "Software Engineer"
     let location  = "Indonesia 🇮🇩"
     let focus     = ["Web Backend", "Mobile Apps", "Clean Architecture"]
@@ -95,13 +95,13 @@ struct Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=f9f9f9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reynoldsteven&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=f9f9f9&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999&background=f9f9f9&stroke=eeeeee&currStreakNum=000000&sideNums=000000" />
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Reynoldsteven&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999&background=f9f9f9&stroke=eeeeee&currStreakNum=000000&sideNums=000000" />
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&langs_count=6" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynoldsteven&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&langs_count=6" />
 
 </div>
 
@@ -116,10 +116,10 @@ struct Developer {
 <div align="center">
 
 <a href="https://github.com/yourusername/project-one">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-one&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
 </a>
 <a href="https://github.com/yourusername/project-two">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
 </a>
 
 </div>
@@ -134,7 +134,7 @@ struct Developer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reynoldsteven&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/yourusername)
 
 </div>
 
