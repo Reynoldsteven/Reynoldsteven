@@ -115,10 +115,13 @@ struct Developer {
 
 <div align="center">
 
-<a href="https://github.com/yourusername/project-one">
+<a href="https://github.com/PBL-Group-4/floralish.git">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-one&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
 </a>
-<a href="https://github.com/yourusername/project-two">
+<a href="https://github.com/PBL-Workradar-IF-TRPL/workradar.git">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
+</a>
+<a href="https://github.com/Aplikasi-Mobile-IbuSehat/IbuSehat.git">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
 </a>
 
@@ -134,7 +137,7 @@ struct Developer {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reynoldsteven&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reynoldsteven&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/Reynoldsteven)
 
 </div>
 
@@ -146,7 +149,7 @@ struct Developer {
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=Reynoldsteven&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
 
 <br/><br/>
 
