@@ -109,7 +109,7 @@ Modern flower shop platform inspired by Apple's design philosophy with elegant u
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Reynoldsteven&theme=flat&no-frame=true&column=4"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=Reynoldsteven&theme=flat&no-frame=true&column=4](https://github.com/Reynoldsteven)"/>
 
 </div>
 
@@ -131,9 +131,9 @@ Modern flower shop platform inspired by Apple's design philosophy with elegant u
 
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:reynoldsteven2506@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/reynold-steven-l-a6aa61411 )
 
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)]([https://instagram.com](https://www.instagram.com/reynss2506))
 
 </div>
 
