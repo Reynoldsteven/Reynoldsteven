@@ -1,160 +1,148 @@
 <div align="center">
 
-<a href="https://github.com/Reynoldsteven">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0f0f,100:2d2d2d&text=Reynold%20Steven&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=fadeIn"/>
 
-<br/>
+### Software Engineer • Laravel Developer • Flutter Enthusiast
 
-<!-- Typing Animation: Name -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=46&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Reynold+Steven+%F0%9F%91%8B;Software+Engineer;PHP+%C2%B7+Laravel+%C2%B7+Flutter" alt="Typing SVG" />
+Building digital products with clean architecture, modern design, and meaningful user experiences.
 
-<br/>
+<br>
 
-<!-- Typing Animation: Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Text&weight=300&size=16&duration=4000&pause=2000&color=888888&center=true&vCenter=true&width=600&height=40&lines=Building+clean%2C+purposeful+software.;Crafting+elegant+backend+architectures.;Delivering+seamless+mobile+experiences." alt="Tagline" />
-
-<br/><br/>
-
-<!-- Contact Badges -->
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reynoldsteven2506@email.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://yourportfolio.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&pause=2000&color=666666&center=true&width=600&lines=Backend+Development;Mobile+Application+Development;Laravel+%7C+Flutter+%7C+PHP+%7C+MySQL"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+# About
 
-## &nbsp;&nbsp;About
+```yaml
+name: Reynold Steven Lumbantoruan
+role: Software Engineer
+location: Indonesia 🇮🇩
 
-```swift
-struct Developer {
-    let name      = "Reynold Steven Lumbantoruan"
-    let role      = "Software Engineer"
-    let location  = "Indonesia 🇮🇩"
-    let focus     = ["Web Backend", "Mobile Apps", "Clean Architecture"]
-    let currently = "Building awesome products with Laravel & Flutter"
-    let passion   = "Turning complex problems into simple, elegant solutions."
-}
+education:
+  - Informatics Engineering Student
+
+specialization:
+  - Backend Development
+  - Mobile Development
+  - REST API Development
+
+currently_building:
+  - IbuSehat
+  - WorkRadar
+  - Floralish
+
+philosophy:
+  - Simplicity
+  - Scalability
+  - User Experience
 ```
 
-<br/>
-
 ---
 
-<br/>
-
-## &nbsp;&nbsp;Tech Stack
+# Tech Stack
 
 <div align="center">
 
-**— Backend —**
+### Backend
 
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-<br/>
+### Mobile
 
-**— Mobile —**
+![Flutter](https://img.shields.io/badge/Flutter-111111?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=for-the-badge\&logo=dart\&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
+### Tools
 
-<br/>
-
-**— Tools & DevOps —**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge\&logo=postman\&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+# Featured Projects
+
+### 🩺 IbuSehat
+
+AI-powered nutrition monitoring application designed to help mothers maintain healthy eating habits and track nutritional intake.
+
+### 💼 WorkRadar
+
+Career development platform that helps users discover opportunities and improve professional growth.
+
+### 🌸 Floralish
+
+Modern flower shop platform inspired by Apple's design philosophy with elegant user interfaces and smooth user experiences.
 
 ---
 
-<br/>
-
-## &nbsp;&nbsp;GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Reynoldsteven&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=555555&bg_color=f9f9f9&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Reynoldsteven&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=555555&dates=999999&background=f9f9f9&stroke=eeeeee&currStreakNum=000000&sideNums=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reynoldsteven&show_icons=true&hide_border=true&count_private=true"/>
 
-<br/><br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynoldsteven&layout=compact&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&langs_count=6" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Reynoldsteven&hide_border=true"/>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## &nbsp;&nbsp;Featured Projects
+<br>
 
 <div align="center">
 
-<a href="https://github.com/PBL-Group-4/floralish.git">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-one&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
-</a>
-<a href="https://github.com/PBL-Workradar-IF-TRPL/workradar.git">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
-</a>
-<a href="https://github.com/Aplikasi-Mobile-IbuSehat/IbuSehat.git">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Reynoldsteven&repo=project-two&hide_border=true&title_color=000000&text_color=555555&bg_color=f9f9f9&icon_color=000000" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reynoldsteven&layout=compact&hide_border=true"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
-
-## &nbsp;&nbsp;Contribution Graph
+# Achievements
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reynoldsteven&theme=minimal&hide_border=true&color=000000&line=000000&point=000000&area=true&area_color=eeeeee&bg_color=f9f9f9)](https://github.com/Reynoldsteven)
+<img src="https://github-profile-trophy.vercel.app/?username=Reynoldsteven&theme=flat&no-frame=true&column=4"/>
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+# Contribution Activity
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=Reynoldsteven&style=for-the-badge&color=000000&label=PROFILE+VIEWS)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Reynoldsteven&theme=github-light&hide_border=true"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+---
 
-<sub>Designed with simplicity in mind &nbsp;·&nbsp; Your Name © 2025</sub>
+# Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:reynoldsteven2506@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### “Turning ideas into impactful digital products.”
+
+2026 © Reynold Steven
 
 </div>
