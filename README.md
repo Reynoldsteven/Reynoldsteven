@@ -109,7 +109,7 @@ Modern flower shop platform inspired by Apple's design philosophy with elegant u
 
 <div align="center">
 
-<img src="[https://github-profile-trophy.vercel.app/?username=Reynoldsteven&theme=flat&no-frame=true&column=4](https://github.com/Reynoldsteven)"/>
+<img src="https://www.linkedin.com/in/reynold-steven-a72b3840b?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
 
 </div>
 
